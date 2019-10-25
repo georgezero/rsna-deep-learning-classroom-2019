@@ -36,6 +36,8 @@ Step 3.
 
 ## Class Schedule
 
+| Date / Time | Class |
+| --- | --- |
 | Mon 10:00 am | Intro |
 | Mon 2:00 pm | Segmentation |
 
