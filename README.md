@@ -3,7 +3,9 @@
 
 ## Intro
 
-Welcome Deep Learners!  This documents provides the information you need to participate in the RSNA Deep Learning Classrooms.
+Welcome Deep Learners!  
+
+This document provides all the information you need to participate in the RSNA Deep Learning Classrooms.
 
 Here's the schedule of [classes](#class-schedule)
 
