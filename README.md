@@ -17,13 +17,13 @@ If you don't have a Google Account, please see [How To Create Google Account](#h
 
 ## Lessons
 
-Lesson 1: Intro
+Lesson 1: [Intro](https://colab.research.google.com/github/ImagingInformatics/machine-learning/blob/master/SiiM2019/MLcourse_Notebook_1_update.ipynb)
 
 Lesson 2: [Data Analysis](https://colab.research.google.com/github/ImagingInformatics/machine-learning/blob/master/SiiM2019/MLcourse_Notebook_1_update.ipynb)
 
-Lesson 3: Segmentation
+Lesson 3: [Segmentation](https://colab.research.google.com/github/ImagingInformatics/machine-learning/blob/master/SiiM2019/MLcourse_Notebook_1_update.ipynb)
 
-Lesson 4: GANs
+Lesson 4: [GANs](https://colab.research.google.com/github/ImagingInformatics/machine-learning/blob/master/SiiM2019/MLcourse_Notebook_1_update.ipynb)
 
 
 ## How To Create Google Account
