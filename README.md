@@ -12,8 +12,7 @@ Here's the schedule of [classes](#class-schedule)
 
 ## Requirements
 
-
-All lessons are designed to run in Google Colab, which is a free web-based version of Jupyter hosted by Google, and requires a Google Account (eg, gmail).
+> All lessons are designed to run in Google Colab, which is a free web-based version of Jupyter hosted by Google, and requires a Google Account (eg, gmail).
 
 If you don't have a Google Account, please see [How To Create Google Account](#how-to-create-google-account) section
 
